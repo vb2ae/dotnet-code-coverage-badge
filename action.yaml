@@ -33,5 +33,5 @@ outputs:
     description: 'The badge data as in json format as required by shields.io'
 
 runs:
-  using: 'node12'
+  using: 'node20'
   main: 'index.js'
